@@ -67,7 +67,17 @@ A secure, decentralized voting implementation built from scratch in Python.
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AASHPAW1015/AASHPAW1015/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AASHPAW1015/AASHPAW1015/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AASHPAW1015/AASHPAW1015/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+---
 <div align="center">
-  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="100%" alt="Nyan Cat" />
+  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="40%" alt="Nyan Cat" />
 </div>
 
