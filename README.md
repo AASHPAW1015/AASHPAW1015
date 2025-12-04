@@ -67,4 +67,7 @@ A secure, decentralized voting implementation built from scratch in Python.
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ---
+<div align="center">
+  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="100%" alt="Nyan Cat" />
+</div>
 
