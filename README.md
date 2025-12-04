@@ -68,11 +68,7 @@ A secure, decentralized voting implementation built from scratch in Python.
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AASHPAW1015/AASHPAW1015/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AASHPAW1015/AASHPAW1015/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AASHPAW1015/AASHPAW1015/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/AASHPAW1015/AASHPAW1015/output/snake.svg" alt="Snake animation" />
 
 ###
 
