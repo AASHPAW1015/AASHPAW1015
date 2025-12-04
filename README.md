@@ -68,22 +68,13 @@ A secure, decentralized voting implementation built from scratch in Python.
 
 ---
 
-## 🎵 Vibe Check
-*(This widget shows what you are listening to on Spotify. You need to set it up separately, but here is the placeholder)*
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing Now" />
-</div>
-
----
-
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AASHPAW1015&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AASHPAW1015&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Stats" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=AASHPAW1015&theme=tokyonight&hide_border=true" alt="Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AASHPAW1015&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AASHPAW1015&theme=tokyonight&hide_border=true&include_all_commits=true&layout=compact" alt="Top Langs" />
 </div>
 
 ---
