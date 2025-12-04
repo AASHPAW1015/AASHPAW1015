@@ -1,33 +1,92 @@
-# 💫 About Me:
-Hi there, I'm Aashpaw! 👋<br>👨‍💻 Full Stack Developer & Problem Solver<br>I build production-grade applications that solve real-world problems. When I'm not debugging servers or optimizing algorithms, you'll find me lost in music. 🎧<br><br><br>🔭 I’m currently working on ClipDash.in (A production SaaS for streamers).<br>🌱 I’m currently learning Golang, TypeScript, Swift, and Advanced DevOps.<br>👯 I’m looking to collaborate on Open Source Python Tools.<br>⚡ Fun fact: I built a secure blockchain voting system from scratch as a school project.<br>🎧 I code to Music (It's my second language).<br>
+<!-- Header with Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Aashpaw!+%F0%9F%91%8B;Full+Stack+Developer;Problem+Solver;Music+Lover+%F0%9F%8E%A7" alt="Typing SVG" />
+</div>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashp_105_official) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-pawar-8463a3393) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aashpawcode@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AASHPAW1015&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AASHPAW1015&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AASHPAW1015&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+  <h3>👨‍💻 Building Production-Grade Apps & Solving Real Problems</h3>
+  
+  <!-- Socials -->
+  <a href="https://instagram.com/ashp_105_official">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://linkedin.com/in/ashutosh-pawar-8463a3393">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:aashpawcode@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AASHPAW1015&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚡ About Me
+*   🔭 I’m currently working on **[ClipDash.in](https://clipdash.in)** (A production SaaS for streamers).
+*   🌱 I’m currently learning **Golang, TypeScript, Swift, and Advanced DevOps**.
+*   👯 I’m looking to collaborate on **Open Source Python Tools**.
+*   ⚡ Fun fact: **I built a secure blockchain voting system from scratch as a school project.**
+*   🎧 I code to **Music** (It's my second language).
 
-<!--
-**AASHPAW1015/AASHPAW1015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎬 [ClipDash.in](https://clipdash.in)
+**Founder & Lead Developer**
+A fully automated SaaS tool for streamers to clip and share moments instantly.
+- **Tech:** Python (FastAPI), AsyncIO, Firebase, Nginx.
+- **DevOps:** Ubuntu Home Server, Cloudflare Tunnels (Zero Trust), SSH, Systemd.
+- **Highlights:** Migrated from localhost to a secure, public-facing production server with 99.9% uptime.
+
+### 🗳️ Blockchain Voting System
+**Creator**
+A secure, decentralized voting implementation built from scratch in Python.
+- **Tech:** Python, Cryptography (Hashing), Data Structures.
+- **Highlights:** Implemented a tamper-proof ledger to demonstrate the core principles of blockchain technology.
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+### Tools & Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Rive](https://img.shields.io/badge/Rive-000000?style=for-the-badge&logo=rive&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+
+---
+
+## 🎵 Vibe Check
+*(This widget shows what you are listening to on Spotify. You need to set it up separately, but here is the placeholder)*
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing Now" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AASHPAW1015&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AASHPAW1015&theme=tokyonight&hide_border=true" alt="Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AASHPAW1015&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+</div>
+
+---
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=AASHPAW1015&icon=4&color=0" alt="Visitors" />
+</div>
