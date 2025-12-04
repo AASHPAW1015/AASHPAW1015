@@ -68,10 +68,7 @@ A secure, decentralized voting implementation built from scratch in Python.
 
 ---
 
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AASHPAW1015/AASHPAW1015/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
+<img src="https://raw.githubusercontent.com/AASHPAW1015/AASHPAW1015/output/snake.svg" alt="Snake animation" />
 
 ---
 <div align="center">
